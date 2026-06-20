@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "PerzaanLive",
-    "password": "",
+    "password": "BOYBOY",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "BerrySMP.play.hosting",
     "port": 92591,
     "version": "1.21.1"
   },
